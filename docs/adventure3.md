@@ -4,7 +4,7 @@
 
 Kid-facing grid programming game. The player builds a step-plan, presses GO, and the hero executes it.
 
-File: `Adventure Game.dc.html` (client-side only, no back-end).
+File: `index.html` (client-side only, no back-end).
 Earlier versions: `adventure1.md` (mechanics prototype, `Grid Game.dc.html`), `adventure2-w-propetheme.md` (first themed version).
 
 ## Themes

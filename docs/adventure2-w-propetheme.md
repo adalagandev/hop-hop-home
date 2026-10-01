@@ -4,7 +4,7 @@
 
 Cute, kid-facing version of the grid adventure game. Two swappable animal themes, original chunky-outlined 2D art (soft sky, drifting clouds, wooden signboards, 3D press buttons).
 
-File: `Adventure Game.dc.html` (no back-end, runs entirely client-side).
+File: `index.html` (no back-end, runs entirely client-side).
 Previous mechanics-only prototype: `Grid Game.dc.html` (see `adventure1.md`).
 
 ## Themes
